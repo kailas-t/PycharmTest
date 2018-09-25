@@ -14,6 +14,10 @@ from tkinter import *
 
 from tkinter import Menu
 
+
+
+#hrellellle
+
 window = Tk()
 
 window.title("Welcome to LikeGeeks app")
